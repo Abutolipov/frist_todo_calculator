@@ -102,7 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
             alignment: Alignment.centerRight,
             padding: EdgeInsets.symmetric(
               horizontal: 14,
-              vertical: 23,
+              vertical: 24,
             ),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.end,
@@ -115,7 +115,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Text(iu2,style: TextStyle(fontSize: 41,fontWeight: FontWeight.bold,),),
                   ],
                 ),
-                Text(output,style: TextStyle(fontSize: 31,),),
+                Text(output,style: TextStyle(fontSize: 30,),),
 
               ],
             ),
