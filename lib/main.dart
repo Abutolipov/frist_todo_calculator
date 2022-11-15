@@ -115,7 +115,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Text(iu2,style: TextStyle(fontSize: 41,fontWeight: FontWeight.bold,),),
                   ],
                 ),
-                Text(output,style: TextStyle(fontSize: 30,),),
+                Text(output,style: TextStyle(fontSize: 31,),),
 
               ],
             ),
