@@ -87,7 +87,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: RaisedButton(
             onPressed: ()=>buttonPressed(t),
             child: Text(t),
-            padding: EdgeInsets.all(24),
+            padding: EdgeInsets.all(23),
         ));
   }
   @override
@@ -102,7 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
             alignment: Alignment.centerRight,
             padding: EdgeInsets.symmetric(
               horizontal: 14,
-              vertical: 24,
+              vertical: 23,
             ),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.end,
