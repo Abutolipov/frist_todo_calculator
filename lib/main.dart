@@ -111,8 +111,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.end,
                   children: [
-                    Text(iu,style: TextStyle(fontSize: 40,fontWeight: FontWeight.bold,),),
-                    Text(iu2,style: TextStyle(fontSize: 40,fontWeight: FontWeight.bold,),),
+                    Text(iu,style: TextStyle(fontSize: 41,fontWeight: FontWeight.bold,),),
+                    Text(iu2,style: TextStyle(fontSize: 41,fontWeight: FontWeight.bold,),),
                   ],
                 ),
                 Text(output,style: TextStyle(fontSize: 30,),),
